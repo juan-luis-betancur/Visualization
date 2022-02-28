@@ -8,6 +8,6 @@ in an interactive way to find interesting trends.
 - Only teams from 7 countries were present in the reports. 
 
 
-Visit the Viz here https://public.tableau.com/views/WorldsMostValuableSportTeamsByForbes/Forbes?:language=en-US&:display_count=n&:origin=viz_share_link
+Visit the viz here https://public.tableau.com/views/WorldsMostValuableSportTeamsByForbes/Forbes?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
